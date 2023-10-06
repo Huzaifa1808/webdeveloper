@@ -1,0 +1,52 @@
+body {
+  margin: 100;
+  background-color: #7fffd4;
+  text-align: center;
+  font-family: "Great Vibes", cursive;
+}
+h1 {
+  font-size: 90px;
+ margin: 60px auto 0 auto;
+ font-family: "Great Vibes", cursive;
+
+}
+h2 {
+  font-size: 35px;
+ 
+
+}
+h3 {
+  font-family: "Carter One", cursive;
+
+  font-weight: normal;
+ 
+}
+img {
+  background-color: ;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.top-cloud {
+  position: absolute;
+}
+.middle-mountain {
+  margin-bottom: 200px;
+  size: 300px;
+}
+/*.top-container {
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  margin-bottom: 0px;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}*/
+.middle-container {
+
+}
+.bottom-container {
+ 
+}
+*/
